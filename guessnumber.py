@@ -8,6 +8,7 @@ while(guess_limit!=0):
     user_guess=int(input("Guess number between 1 to 50"))
     if computer_selected==user_guess:
         print("Congratulations you guessed the correct number in ",guess_limit, "chances")
+        break
     elif computer_selected-user_guess < 10:
         guess_limit-=1
         print("Ohh you missed it but you are too close to the correct number")
