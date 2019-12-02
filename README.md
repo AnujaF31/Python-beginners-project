@@ -1,5 +1,5 @@
 # Python-beginners-project
-This repository is a collection of python codes for beginners project mentioned in the below link:
+This repository is a collection of python codes for beginner's projects mentioned in the below link:
 https://www.codementor.io/ilyaas97/6-python-projects-for-beginners-yn3va03fs 
 
 
